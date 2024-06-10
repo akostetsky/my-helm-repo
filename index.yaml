@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  collector-boiler:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-06-10T18:20:42.977266342Z"
+    description: A Helm chart for Kubernetes
+    digest: bf10c15d1ec9ab024ad74b8789b8834613657dbc620429d05ab65b8089b9b7e2
+    name: collector-boiler
+    type: application
+    urls:
+    - https://akostetsky.github.io/my-helm-repo/collector-boiler-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-10T18:20:42.976472951Z"
